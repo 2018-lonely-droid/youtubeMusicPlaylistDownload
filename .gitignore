@@ -1,6 +1,7 @@
 # Ignore headers_auth.json
 headers_auth.json
 .DS_Store
+ffmpeg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
